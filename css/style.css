@@ -169,3 +169,15 @@ header{
 .container-single p{
     padding-top: 15px;
 }
+
+footer{
+    clear: both;
+    border-top:solid 2px #8888;
+    padding: 30px 0;
+    text-align: center;
+}
+
+footer p{
+    color: #8888;
+    padding-top: 15px;
+}
